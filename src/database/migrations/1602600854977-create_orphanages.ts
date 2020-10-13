@@ -11,7 +11,7 @@ export class createOrphanages1602600854977 implements MigrationInterface {
           unsigned: true,
           isPrimary: true,
           isGenerated: true,
-          generationStrategy: "increment"
+          generationStrategy: "increment" 
         },
         {
           name: "name",
