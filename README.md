@@ -1,2 +1,2 @@
 # Aplicação Happy
-#### Desenvolvida durante a Next Level Week 3
+#### Desenvolvido durante a Next Level Week 3
